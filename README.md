@@ -18,3 +18,5 @@ You can install these dependencies using pip:
 gradio demo.py
 ```
 
+## TODO
+ - [ ]  Render each denoising step
