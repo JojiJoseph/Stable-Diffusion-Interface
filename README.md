@@ -29,7 +29,10 @@ gradio demo_steps.py
 ```
 
 
-https://github.com/JojiJoseph/Stable-Diffusion-Interface/assets/16421250/a542341a-dae9-48fa-9dea-be5e756c04fd
+
+https://github.com/JojiJoseph/Stable-Diffusion-Interface/assets/16421250/520d1a41-38e8-4ac2-b67a-772113bd9f6d
+
+
 
 
 
