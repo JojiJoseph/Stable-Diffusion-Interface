@@ -30,4 +30,4 @@ gradio demo_steps.py
 
 
 ## TODO
- - [ ]  Render each denoising step
+ - [x]  Render each denoising step
