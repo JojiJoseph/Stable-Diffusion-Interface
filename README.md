@@ -29,5 +29,9 @@ gradio demo_steps.py
 ```
 
 
+https://github.com/JojiJoseph/Stable-Diffusion-Interface/assets/16421250/a542341a-dae9-48fa-9dea-be5e756c04fd
+
+
+
 ## TODO
  - [x]  Render each denoising step
