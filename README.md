@@ -18,10 +18,6 @@ You can install these dependencies using pip:
 gradio demo.py
 ```
 
-
-
-https://github.com/JojiJoseph/Stable-Diffusion-Interface/assets/16421250/171d50d4-65cd-49ea-a8d5-bd87ae8c8da8
-
 To visualize intermediate denoising steps,
 
 ```
